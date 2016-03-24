@@ -207,8 +207,6 @@ do
 done &
 }
 
-alias eve='steam steam://rungameid/404410 &'  # Endless Sky. A small relaxing game, good for short breaks (~5 min).
-
 # Wallpaper slideshow
  alias wss='nohup feh --recursive --randomize --auto-zoom --slideshow-delay 1200 --geometry 1366x768 /media/01/03-Imgs/Wall/Favourites/'
 
